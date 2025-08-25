@@ -1,4 +1,4 @@
-# Flight Booking Chatbot Prototype (COMP3074 – Human-AI Interaction Coursework)
+# Flight Booking Chatbot Prototype
 
 ## 📌 Overview
 This project is a **flight booking chatbot prototype** developed for the COMP3074 Human-AI Interaction coursework.  
