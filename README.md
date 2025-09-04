@@ -1,7 +1,7 @@
 # Flight Booking Chatbot Prototype
 
 ## 📌 Overview
-This project is a **flight booking chatbot prototype** developed for the COMP3074 Human-AI Interaction coursework.  
+This project is a **flight booking chatbot prototype** developed to improve Human-AI Interaction.  
 The system demonstrates **interactive Natural Language Processing (NLP)** by combining:
 
 - Intent matching  
